@@ -1,0 +1,11 @@
+{
+  "name": "books_api_gcp",
+  "version": "1.0.0",
+  "description": "books api using gcp and cloud run ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
